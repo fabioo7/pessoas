@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://fabiorangel.com.br/</loc>
+  <lastmod>2020-09-10T01:50:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://fabiorangel.com.br/sistemas/controle-transfer</loc>
+  <lastmod>2020-09-10T01:50:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fabiorangel.com.br/sistemas/Check-in-de-Embarque</loc>
+  <lastmod>2020-09-10T01:50:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fabiorangel.com.br/sistemas/Sistema-de-sanitiza%C3%A7%C3%A3o</loc>
+  <lastmod>2020-09-10T01:50:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fabiorangel.com.br/sistemas/controle-de-acesso-ve%C3%ADculos</loc>
+  <lastmod>2020-09-10T01:50:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fabiorangel.com.br/sistemas/time-table-de-embarque</loc>
+  <lastmod>2020-09-10T01:50:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fabiorangel.com.br/sistemas/controle-de-acesso-eventos</loc>
+  <lastmod>2020-09-10T01:50:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

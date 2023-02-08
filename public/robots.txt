@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://fabiorangel.ml/public/sitemap.xml

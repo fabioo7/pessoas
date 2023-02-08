@@ -1,0 +1,4 @@
+﻿User-agent: *
+User-agent: Googlebot-Image
+Disallow:
+Sitemap: https://fabiorangel.com.br/sitemap.xml
