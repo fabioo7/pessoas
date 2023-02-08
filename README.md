@@ -26,6 +26,8 @@ https://documenter.getpostman.com/view/25727843/2s935pr46E
 - Laravel 6
 - Utilizado PHP 7.0
 - Mysql
+- javascript
+- Ajax
 
 
 ## 🗒️ Ferramentas
